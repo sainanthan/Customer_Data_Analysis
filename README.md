@@ -1,5 +1,5 @@
 # Customer Data Analysis
-![Image]
+![Image](https://github.com/sainanthan/Customer_Data_Analysis/blob/main/customer%20data.jpeg)
 
 ## 📘 Project Overview:
 This analysis is based on real customer transactional data containing shopping behavior across various categories, age groups, genders, and payment methods.
@@ -169,14 +169,17 @@ ORDER BY transactions DESC;
 ---
 
 ## 📈 Insights & Visualizations:
-**Page 1**
-![image]
+**Page-1**
 
-**Page 2**
-![image]
+![image](https://github.com/sainanthan/Customer_Data_Analysis/blob/main/Page1.png)
 
-**Page 3**
-![image]
+**Page-2**
+
+![image](https://github.com/sainanthan/Customer_Data_Analysis/blob/main/page2.png)
+
+**Page-3**
+
+![image](https://github.com/sainanthan/Customer_Data_Analysis/blob/main/page3.png)
 
 ---
 
