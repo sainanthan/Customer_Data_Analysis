@@ -3,6 +3,7 @@
 
 ## 📘 Project Overview:
 This analysis is based on real customer transactional data containing shopping behavior across various categories, age groups, genders, and payment methods.
+
 **The project covers:**
 - Gender-based shopping behavior
 - Age-wise customer performance
